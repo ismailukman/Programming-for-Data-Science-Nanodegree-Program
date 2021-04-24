@@ -1,0 +1,7 @@
+#this is my gitignore file
+
+# Ignore all text files
+*.pdf
+
+# Ignore node_modules folder
+/Lukman_SQL_Project
