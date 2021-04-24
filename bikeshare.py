@@ -63,7 +63,6 @@ def select_data():
         if(month=="6"):
             month = "june"
             break
-        #city.lower()
         
         if month in months or month == 'a':
             break
@@ -129,7 +128,8 @@ def trip_info(db_cty):
     print('*'*50)
 
 
-def bikers_info(db_cty): 
+def bikers_info(db_cty):
+    #Important details about bikers
     user_type = db_cty['User Type'].value_counts()
     gender_count = 'no record from this city.'
     oldest_year = 'no record from this city'
