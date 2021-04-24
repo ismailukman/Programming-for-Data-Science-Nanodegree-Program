@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 
 #CLI Dashboard for US bikeshare states
+#Udacity Python Project
 
 city_record = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
@@ -21,7 +22,6 @@ def load_data(city, month, day):
         db_cty = db_cty[db_cty['Month'] == month]
     if day != 'a':
         db_cty = db_cty[db_cty['Day of Week'] == day.title()]
-
     return db_cty
 
 def select_data():
@@ -117,7 +117,6 @@ def station_info(db_cty):
     frq_end_st = db_cty['End Station'].mode()[0]
     db_cty['Start and End Stations'] = db_cty['Start Station'] + ' ===> ' + db_cty['End Station']
     freq_tr = db_cty['Start and End Stations'].mode()[0]
-
     print('Riders most prefered start station {}.\nRiders Most prefered stop station {}.\nMost Friquent Trip {}.'.format(frq_start_st, frq_end_st, freq_tr))
     print('*'*50)
 
