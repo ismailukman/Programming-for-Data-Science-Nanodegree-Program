@@ -62,8 +62,7 @@ def select_data():
             break
         if(month=="6"):
             month = "june"
-            break
-        #city.lower()
+            break 
         
         if month in months or month == 'a':
             break
@@ -92,9 +91,7 @@ def select_data():
             break
         if(day=="7"):
             day = "sunday"
-            break 
-        #day.lower()
-        
+            break          
         if day in days or day == 'a':
             break
         else:

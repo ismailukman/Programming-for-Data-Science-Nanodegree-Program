@@ -4,10 +4,10 @@ Udacity Nanodegree
 Documentation of all my projects
 
 Project 1:
-	SQL Queries
+	SQL Queries for database
 
 Project 2:
-	Python Bikeshare Dashboard
+	Python Bikeshare Dashboard Command-Line
 
 Peoject 3:
 	Git and Github Hands-on
