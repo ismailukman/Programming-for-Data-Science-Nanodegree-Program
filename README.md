@@ -1,4 +1,4 @@
-# Programming-for-Data-Science-Nanodegree-Program 
+# Programming-for-Data-Science-Nanodegree-Program :man_technologist:
 Udacity Nanodegree
 
 > Documentation of all my projects
@@ -12,4 +12,4 @@ Project 2: :white_check_mark:
 Peoject 3: :white_check_mark:
 	Git and Github Hands-on
 
-[Certificate](https://confirm.udacity.com/HMCTA2FN))
+[View Certificate](https://confirm.udacity.com/HMCTA2FN)
