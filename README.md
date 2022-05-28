@@ -12,4 +12,4 @@ Project 2: :white_check_mark:
 Peoject 3: :white_check_mark:
 	Git and Github Hands-on
 
-[Certificate]([docs/CONTRIBUTING.md](https://confirm.udacity.com/HMCTA2FN))
+[Certificate](https://confirm.udacity.com/HMCTA2FN))
